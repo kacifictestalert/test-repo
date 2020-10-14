@@ -1,7 +1,7 @@
 #!/bin/bash
 
 def add():
-    pass
+    print "This is add function"
 
 def sub():
     pass
